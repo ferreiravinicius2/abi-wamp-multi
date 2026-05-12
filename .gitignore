@@ -1,0 +1,35 @@
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Vercel local artefacts
+.vercel/
+
+# Source data files — should NEVER be committed to a public repo
+*.xlsx
+*.xlsb
+*.xls
+*.pptx
+*.ppt
+*.pdf
+*.zip
+*.csv
+*.parquet
+
+# Working / pipeline outputs
+__pycache__/
+*.pyc
+output/
+pipeline/
+*.log
+_run_log.txt
+_validate_*.txt
+
+# Secrets
+.env
+.env.local
+credentials.json
+*.pem
+*.key
