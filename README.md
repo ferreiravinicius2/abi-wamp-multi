@@ -1,8 +1,8 @@
 # WAMP Multi-Country Dashboard
 
 Static HTML dashboard for the AB InBev Weighted Average Market Price (WAMP) analysis,
-covering 11 countries (Poland, Thailand, Austria, Denmark, Norway, Switzerland,
-New Zealand, Costa Rica, Romania, Venezuela, Puerto Rico).
+covering the multi-country WAMP views, including the separate Costa Rica Scantrack
+view alongside the existing Costa Rica retail view.
 
 ## Live URL
 
